@@ -4,6 +4,8 @@
 
 This project is a web application designed as a personal healthcare assistant, integrating speech recognition and text-to-speech functionalities using React for the frontend and Flask for the backend. The application leverages the Gemini Pro model to provide intelligent responses and manage user interactions. Users can communicate with the assistant through voice or text and receive healthcare-related information and support.
 
+**Project-Link** : https://health-bot.netlify.app
+
 ## Getting Started
 
 Follow these steps to run the project locally.
